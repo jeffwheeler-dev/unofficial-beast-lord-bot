@@ -1,0 +1,1 @@
+// Command to view or purchase items from a virtual shop.

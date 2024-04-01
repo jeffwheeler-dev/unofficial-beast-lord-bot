@@ -1,0 +1,1 @@
+// Command to conduct performance tests, measuring the bot's responsiveness and resource usage under various conditions.

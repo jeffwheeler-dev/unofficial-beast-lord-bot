@@ -1,0 +1,1 @@
+// Command to generate an invite link for adding the bot to other servers.

@@ -1,0 +1,1 @@
+// Command to display the bot's uptime or online status.

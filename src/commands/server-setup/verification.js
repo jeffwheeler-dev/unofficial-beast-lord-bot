@@ -1,0 +1,1 @@
+// Command to set up a verification system for new members joining the server.

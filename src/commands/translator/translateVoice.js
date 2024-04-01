@@ -1,0 +1,1 @@
+// Command to enable translation for voice channels or voice chat.

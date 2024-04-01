@@ -1,0 +1,1 @@
+// Command to apply or adjust bass boost effects for music playback.

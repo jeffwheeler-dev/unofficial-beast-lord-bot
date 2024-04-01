@@ -1,0 +1,1 @@
+// Command to remove all messages from a user in a specific channel.

@@ -1,0 +1,1 @@
+// Command to gamble currency for a chance to win or lose.

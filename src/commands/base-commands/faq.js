@@ -1,0 +1,1 @@
+// Command to show frequently asked questions and answers.

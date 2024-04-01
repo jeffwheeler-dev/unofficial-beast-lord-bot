@@ -1,0 +1,1 @@
+// Command to earn currency by performing a simulated work activity.

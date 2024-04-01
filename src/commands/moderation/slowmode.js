@@ -1,0 +1,1 @@
+// Command to enable slow mode in a channel, limiting message frequency.

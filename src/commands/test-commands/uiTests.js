@@ -1,0 +1,1 @@
+// Command to run UI tests on the web dashboard, ensuring a smooth and user-friendly experience for administrators and users.

@@ -1,0 +1,1 @@
+// Command to enable or disable automatic message translation.

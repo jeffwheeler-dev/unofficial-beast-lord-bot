@@ -1,0 +1,1 @@
+// Command to set up automatic translation for a specific channel.

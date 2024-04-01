@@ -1,0 +1,1 @@
+// Command to issue strikes to users as part of a warning system.

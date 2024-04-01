@@ -1,0 +1,1 @@
+// Command to display server rules or guidelines.

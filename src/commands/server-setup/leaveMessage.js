@@ -1,0 +1,1 @@
+// Command to set a custom leave message for members leaving the server.

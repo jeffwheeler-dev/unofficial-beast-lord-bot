@@ -1,0 +1,1 @@
+// Command to mute users, preventing them from sending messages or speaking in voice channels.

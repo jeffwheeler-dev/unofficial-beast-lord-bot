@@ -1,0 +1,1 @@
+// Command to generate an invite link to the server or guild.

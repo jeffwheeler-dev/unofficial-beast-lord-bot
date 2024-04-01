@@ -1,0 +1,1 @@
+// Command to reset the bot's command prefix to default.

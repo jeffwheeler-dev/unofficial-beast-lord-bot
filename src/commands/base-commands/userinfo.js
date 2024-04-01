@@ -1,0 +1,1 @@
+// Command to fetch and display information about a specific user or member.

@@ -1,0 +1,1 @@
+// Command to ban users from the server.

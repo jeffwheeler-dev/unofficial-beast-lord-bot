@@ -1,0 +1,1 @@
+// Command to provide support information, such as Discord server invite or contact details.

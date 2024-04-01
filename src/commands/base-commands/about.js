@@ -1,0 +1,1 @@
+// Command to provide information about the bot, such as version, author, and purpose.

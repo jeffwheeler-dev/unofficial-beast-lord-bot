@@ -1,0 +1,1 @@
+// Command to assign translation permissions to specific roles.

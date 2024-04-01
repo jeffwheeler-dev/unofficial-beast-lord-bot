@@ -1,0 +1,1 @@
+// Command to pause the currently playing music.

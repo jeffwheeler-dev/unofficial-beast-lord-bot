@@ -1,0 +1,1 @@
+// Command to disconnect the bot from the voice channel.

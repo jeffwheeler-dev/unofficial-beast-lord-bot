@@ -1,0 +1,1 @@
+// Command to make the bot leave the current voice channel.

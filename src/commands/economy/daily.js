@@ -1,0 +1,1 @@
+// Command to claim a daily reward or bonus.

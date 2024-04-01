@@ -1,0 +1,1 @@
+// Command to display information about the server or guild where the bot is active.

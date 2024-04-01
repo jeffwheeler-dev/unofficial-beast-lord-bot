@@ -1,0 +1,1 @@
+// Command to display a list of supported languages for translation.

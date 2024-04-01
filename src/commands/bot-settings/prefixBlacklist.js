@@ -1,0 +1,1 @@
+// Command to blacklist certain prefixes for commands.

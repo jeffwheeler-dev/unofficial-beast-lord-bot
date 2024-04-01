@@ -1,0 +1,1 @@
+// Command to assist in setting up the bot on new servers or guilds.

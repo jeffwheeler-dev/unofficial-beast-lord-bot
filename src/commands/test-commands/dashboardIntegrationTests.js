@@ -1,0 +1,1 @@
+// Command to perform integration tests specifically focused on the web dashboard's functionality and compatibility with the bot.

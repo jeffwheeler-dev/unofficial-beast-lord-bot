@@ -1,0 +1,1 @@
+// Command to manage or configure channel categories on the server.

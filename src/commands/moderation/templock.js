@@ -1,0 +1,1 @@
+// Command to temporarily lock a channel for a specified duration.

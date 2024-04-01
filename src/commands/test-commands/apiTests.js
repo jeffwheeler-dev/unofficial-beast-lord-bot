@@ -1,0 +1,1 @@
+// Command to test APIs and external integrations used by the bot, verifying data exchange and functionality.

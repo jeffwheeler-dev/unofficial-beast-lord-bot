@@ -1,0 +1,1 @@
+// Command to toggle autoplay mode for music playback.

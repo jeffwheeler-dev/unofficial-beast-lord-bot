@@ -1,0 +1,1 @@
+// Command to automatically assign roles to new members upon joining.

@@ -1,0 +1,1 @@
+// Command to set or update the logging channel for server events.

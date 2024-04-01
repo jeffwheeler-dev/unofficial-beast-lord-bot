@@ -1,0 +1,1 @@
+// Command to fetch and display lyrics for the currently playing song.

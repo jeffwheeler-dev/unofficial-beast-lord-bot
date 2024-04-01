@@ -1,0 +1,1 @@
+// Command to perform an audit of server activity, such as message deletions or member joins.

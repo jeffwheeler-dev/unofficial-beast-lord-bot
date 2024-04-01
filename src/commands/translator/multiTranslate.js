@@ -1,0 +1,1 @@
+// Command to translate multiple messages or a bulk of text at once.

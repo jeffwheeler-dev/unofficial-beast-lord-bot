@@ -1,0 +1,1 @@
+// Command to set the language or locale for the bot's responses.

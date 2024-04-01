@@ -1,0 +1,1 @@
+// Command to provide information or links for voting for the bot on bot listing websites.

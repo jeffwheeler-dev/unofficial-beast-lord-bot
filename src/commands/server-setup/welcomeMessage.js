@@ -1,0 +1,1 @@
+// Command to set a custom welcome message for new members joining the server.

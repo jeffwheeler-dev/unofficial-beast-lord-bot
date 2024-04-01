@@ -1,0 +1,1 @@
+// Command to create custom translation rules or dictionaries.

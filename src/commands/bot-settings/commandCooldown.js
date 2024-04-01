@@ -1,0 +1,1 @@
+// Command to set cooldowns for specific commands to prevent spam.

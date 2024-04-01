@@ -1,0 +1,1 @@
+// Command to configure embed settings for messages sent by the bot.

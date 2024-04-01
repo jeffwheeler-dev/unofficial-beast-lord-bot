@@ -1,0 +1,1 @@
+// Command to run security tests, checking for vulnerabilities and ensuring data protection measures are in place.

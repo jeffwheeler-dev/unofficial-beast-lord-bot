@@ -1,0 +1,1 @@
+// Command to manage translation-related settings and commands.

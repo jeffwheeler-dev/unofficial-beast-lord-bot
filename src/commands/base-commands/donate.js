@@ -1,0 +1,1 @@
+// Command to display donation information or links for supporting the bot's development.

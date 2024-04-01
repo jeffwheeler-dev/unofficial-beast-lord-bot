@@ -1,0 +1,1 @@
+// Command to acknowledge contributors or credits for the bot's development.

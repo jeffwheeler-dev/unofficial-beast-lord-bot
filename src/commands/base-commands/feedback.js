@@ -1,0 +1,1 @@
+// Command to allow users to send feedback or suggestions to the bot developer.
